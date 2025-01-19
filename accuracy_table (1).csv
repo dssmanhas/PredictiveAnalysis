@@ -1,0 +1,6 @@
+,Simple Random,Systematic,Stratified,Cluster,Bootstrap
+Random Forest,0.869521634,0.99,0.8231042,0.800461243,0.98
+SVM,0.73,0.77,0.69,0.744588745,0.77
+Logistic Regression,0.93,0.98,0.97,0.965367965,0.97
+KNN,0.93,0.88,0.96,0.96969697,0.91
+Naive Bayes,0.83,0.89,0.94,0.926406926,0.86
